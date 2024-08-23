@@ -1,4 +1,4 @@
-# -BanTribe_a_Python-project
+# -BandTribe_a_Python-project
 
 
 ![Screenshot (20)](https://github.com/user-attachments/assets/e16fa69e-e7a8-47cd-953d-4ed74754a77f)
